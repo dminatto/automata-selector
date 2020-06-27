@@ -1,0 +1,16 @@
+c:\users\daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\bin\Debug\LinguagensFormaisFinal.exe.config
+c:\users\daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\bin\Debug\LinguagensFormaisFinal.exe
+c:\users\daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\bin\Debug\LinguagensFormaisFinal.pdb
+c:\users\daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\obj\Debug\LinguagensFormaisFinal.csprojResolveAssemblyReference.cache
+c:\users\daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\obj\Debug\LinguagensFormaisFinal.Properties.Resources.resources
+c:\users\daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\obj\Debug\LinguagensFormaisFinal.csproj.GenerateResource.Cache
+c:\users\daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\obj\Debug\LinguagensFormaisFinal.exe
+c:\users\daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\obj\Debug\LinguagensFormaisFinal.pdb
+c:\users\daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\obj\Debug\LinguagensFormaisFinal.View.LanguageForm.resources
+c:\users\daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\obj\Debug\LinguagensFormaisFinal.View.Welcome.resources
+C:\Users\Daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\obj\Debug\LinguagensFormaisFinal.View.IsAFNDForm.resources
+C:\Users\Daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\obj\Debug\LinguagensFormaisFinal.View.IsAFDForm.resources
+C:\Users\Daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\obj\Debug\LinguagensFormaisFinal.View.ResultForm.resources
+C:\Users\Daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\obj\Debug\LinguagensFormaisFinal.View.ConvertForm.resources
+C:\Users\Daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\obj\Debug\LinguagensFormaisFinal.View.SentenceForm.resources
+C:\Users\Daniele\documents\visual studio 2012\Projects\LinguagensFormaisFinal\LinguagensFormaisFinal\obj\Debug\LinguagensFormaisFinal.View.WelcomeTwocs.resources
